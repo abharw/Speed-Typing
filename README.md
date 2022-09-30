@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Basic MonkeyType clone using React, Tailwind CSS, and Framer Motion 
 
 ## Available Scripts
 
